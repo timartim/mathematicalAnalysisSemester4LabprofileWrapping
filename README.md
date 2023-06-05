@@ -1,0 +1,2 @@
+# mathematicalAnalysisSemester4LabprofileWrapping
+Лабораторная работа по обтеканию профилей
